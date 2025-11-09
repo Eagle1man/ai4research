@@ -1,0 +1,16 @@
+# Example Prompts for AI4Research
+
+## 1. Literature Understanding (AI4SC)
+"Summarize the following abstract and extract key methods, parameters, and main results."
+
+## 2. Automated Review Generation (AI4AS)
+"Based on the retrieved papers, generate a structured literature review with subsections: Introduction, Methods, Results, Discussion."
+
+## 3. Hypothesis Generation (AI4SD)
+"Propose 5 testable hypotheses to improve material X based on the described results and historical trends. Include rationale and suggested experiment."
+
+## 4. Writing Assistance (AI4AW)
+"Generate a scientific abstract in academic style summarizing the core findings of this study."
+
+## 5. Peer Review Automation (AI4APR)
+"Evaluate this paper according to novelty, methodology, reproducibility, and clarity. Output a review with pros and cons."
